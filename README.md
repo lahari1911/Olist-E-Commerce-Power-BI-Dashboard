@@ -165,14 +165,6 @@ DIVIDE(Late, [Total Orders], 0)
 * Offer incentives for fast payment methods
 * Improve customer service for low-rating orders
 
----
-
-##  **Project Files in This Repository**
-
-* `Olist_Ecommerce_Dashboard.pbix` – Power BI file
-* `datasets/` – Raw CSV files
-* `README.md` – Documentation
-* `Insights.pdf` (optional)
 
 ---
 
